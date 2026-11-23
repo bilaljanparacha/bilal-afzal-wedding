@@ -10,7 +10,7 @@ export const weddingData = {
   invitationText:
     'With immense joy and gratitude to Almighty Allah, we warmly welcome you and your family to share in our happiness and bless this new chapter with your presence and prayers.',
   shortDatesBanner: '25 • 26 • 27 Dec 2026',
-  cityBanner: 'Peshawar',
+  cityBanner: 'Shabqadar, Charsadda',
   // Barat start time in Pakistan Standard Time (UTC+5)
   countdownTargetISO: '2026-12-25T13:00:00+05:00',
   // Audio track placed in `public/wedding-music.mp3`
