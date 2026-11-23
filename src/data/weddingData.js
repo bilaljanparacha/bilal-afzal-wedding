@@ -6,7 +6,7 @@ export const weddingData = {
     'Cordially invite you to grace the wedding ceremonies of their beloved sons',
   firstBrotherName: 'Bilal Jan',
   secondBrotherName: 'Afzal Jan',
-  //monogram: 'B & A',
+  monogram: 'B & A',
   invitationText:
     'With immense joy and gratitude to Almighty Allah, we warmly welcome you and your family to share in our happiness and bless this new chapter with your presence and prayers.',
   shortDatesBanner: '25 • 26 • 27 Dec 2026',
