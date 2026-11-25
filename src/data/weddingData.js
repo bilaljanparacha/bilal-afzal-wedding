@@ -152,8 +152,7 @@ export const weddingData = {
       name: 'Jan Muhammad Residency',
       address: 'Jan Muhammad Residency, Village Khubai, Shabqadar',
       note: 'Family Residence · Warm Traditional Hospitality',
-      directionsUrl:
-        'https://www.google.com/maps/place/JanSons+Mart/@34.2411278,71.579481,190m/data=!3m1!1e3!4m14!1m7!3m6!1s0x38d943de7390f2d5:0xfca38449cd8482ef!2sKhubai!8m2!3d34.2387626!4d71.5825652!16s%2Fg%2F11kj7m28nr!3m5!1s0x38d9437c3a9e7c09:0x275c57d9004205e1!8m2!3d34.241304!4d71.5794945!16s%2Fg%2F11njxyf7v1',
+      directionsUrl: 'https://maps.app.goo.gl/uYqVAhCCgQdx8dLw6?g_st=iw',
     },
     {
       id: 'orbal-arena',

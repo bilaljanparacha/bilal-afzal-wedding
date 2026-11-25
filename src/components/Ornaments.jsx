@@ -86,7 +86,7 @@ export function RoyalCrest({ monogram }) {
         className="w-44 sm:w-52 h-auto overflow-visible"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
-        aria-label={`Royal monogram ${monogram}`}
+        aria-label={`Monogram ${monogram}`}
       >
         <defs>
           {/* Animated shimmering gold foil gradient matching the grooms' names (.gold-foil-text) */}

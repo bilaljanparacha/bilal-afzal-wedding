@@ -4,7 +4,7 @@ import { GoldDivider, RoyalCrest } from './Ornaments'
 export function Footer({ data, onReplayEnvelope }) {
   const handleWhatsAppShare = () => {
     const shareText = [
-      `✨ Royal Wedding Invitation ✨`,
+      `✨ Wedding Invitation ✨`,
       `${data.hostsLine} cordially invite you to the wedding ceremonies of their beloved sons, ${data.firstBrotherName} & ${data.secondBrotherName}.`,
       ``,
       `📅 Barat: Friday, 25 Dec 2026 — Jan Muhammad Residency`,

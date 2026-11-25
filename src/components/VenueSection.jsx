@@ -13,7 +13,7 @@ export function VenueSection({ venues }) {
       className="py-12 px-5 sm:px-9 border-t border-[#D4AF37]/40 bg-[#F5EDE0]/75 text-center"
     >
       <p className="font-royal text-[10px] tracking-[0.3em] text-[#8C6218] uppercase">
-        The Royal Setting
+        Wedding Venues
       </p>
       <h2 className="font-calligraphy text-4xl sm:text-5xl gold-foil-text mt-1">
         Venues &amp; Directions

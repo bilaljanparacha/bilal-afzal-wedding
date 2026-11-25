@@ -8,7 +8,7 @@ export function WaxSeal({ monogram, isCracking, onClick }) {
         e.stopPropagation()
         onClick()
       }}
-      aria-label="Open Royal Wedding Invitation"
+      aria-label="Open Wedding Invitation"
       whileHover={{ scale: 1.05 }}
       whileTap={{ scale: 0.96 }}
       animate={

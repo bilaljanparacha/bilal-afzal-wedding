@@ -214,7 +214,7 @@ export function EnvelopeIntro({ data, stage, onOpen }) {
         className="mt-8 sm:mt-10 text-center cursor-pointer z-20"
       >
         <p className="font-serif-luxury italic text-lg sm:text-xl text-[#F3E5AB] tracking-wide">
-          Tap the Royal Seal to Open Your Invitation
+          Tap the Seal to Open Your Invitation
         </p>
         <motion.div
           animate={{ opacity: [0.35, 1, 0.35] }}
